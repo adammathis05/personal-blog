@@ -1,0 +1,70 @@
+header {
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: double 5px black;
+    height: 5vh;
+
+}
+
+main {
+    display: flex;
+    height: 95vh;
+
+}
+
+main section { 
+    flex-basis: 50%;
+
+}
+
+.left > div {
+    background-color: yellow;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-left: double 5px black;
+
+}
+
+.right > form {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.right h2, .right form {
+    padding-left: 25px;
+}
+
+form {
+    width: 100%;
+}
+
+input, textarea, form button {
+    width: 90%;
+
+}
+
+form button {
+    background-color: black;
+    color: white;
+}
