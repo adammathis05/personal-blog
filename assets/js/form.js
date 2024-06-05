@@ -41,6 +41,8 @@ function handleRedirect () {
 
 }
 
+
+
 // USER INTERACTIONS 
 
 document.querySelector("form").addEventListener("submit", handleFormSubmit);
