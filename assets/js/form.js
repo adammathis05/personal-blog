@@ -1,7 +1,9 @@
 // DEPENDENCIES
+const themeSwitcher = document.querySelector('#theme-switcher');
+const container = document.querySelector('.container');
 
-
-
+const modeToggle = document.getElementById('toggle');
+const body = document.body;
 
 // DATA
 
@@ -42,6 +44,10 @@ function handleRedirect () {
 }
 
 
+modeToggle.addEventListener('click', () => {
+    body.classList.toggle('dark-mode');
+    body.classList.toggle('light-mode');
+});
 
 // USER INTERACTIONS 
 
