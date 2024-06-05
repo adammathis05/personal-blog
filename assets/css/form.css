@@ -17,7 +17,7 @@ main section {
 
 }
 
-.dark-mode {
+/* .dark-mode {
     background-color: #333;
     color: #fff;
 }
@@ -25,7 +25,7 @@ main section {
 .light-mode {
     background-color: #fff;
     color: #333;
-}
+} */
 
 
 .left > div {
