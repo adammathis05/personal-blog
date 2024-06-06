@@ -1,6 +1,33 @@
+main {
+    display: flex;
+    height: 85vh;
+}
 
 
 
+.contact-info {
+    display: flex;
+    border-top: double 5px black;
+    height: 8vh;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: flex-start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.contact-info li {
+    text-decoration: none;
+    list-style: none;
+}
 
 
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    border: solid 1px black;
 
+}
