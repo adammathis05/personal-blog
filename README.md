@@ -12,9 +12,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text]([assets/images/screenshot.png](https://github.com/adammathis05/personal-blog/blob/main/assets/Screenshot%202024-06-05%20at%2021.46.09.png))
-    ```
+https://github.com/adammathis05/personal-blog/blob/main/assets/Screenshot%202024-06-05%20at%2021.46.09.png
 
 ## Credits
 - https://www.w3schools.com/html/html_forms.asp
