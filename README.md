@@ -9,19 +9,6 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
@@ -33,3 +20,13 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
 
 ## Credits
+- https://www.w3schools.com/html/html_forms.asp
+- https://www.w3schools.com/jsref/met_storage_setitem.asp
+- https://stackoverflow.com/questions/69962673/how-do-i-save-and-show-text-input-to-local-storage-using-a-button
+- https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+- https://stackoverflow.com/questions/49201411/how-to-send-html-form-values-to-localstorage-in-json-string-using-javascript
+- https://developer.chrome.com/docs/devtools/storage/localstorage
+- Ask BCS Learning Assistant
+- 
+
+
